@@ -1,0 +1,19 @@
+[
+    {
+      "icon": "img/library.png",
+      "title": "World Class Library",
+      "description": "Our Facilities are very nice and recommended for everyone. The library is well decorated."
+    },
+    {
+      "icon": "img/basketball.png",
+      "title": "Largest Play Ground",
+      "description": "Our Facilities are very nice and recommended for everyone. We have the largest playground."
+    },
+    {
+      "icon": "img/cafeteria.png",
+      "title": "Tasty And Healthy Food",
+      "description": "Our Facilities are very nice and recommended for everyone. We serve tasty and healthy food."
+    }
+    
+  ]
+  

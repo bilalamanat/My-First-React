@@ -1,0 +1,14 @@
+{
+    "logoSrc": "img/logo.png",
+    "navLinks": [
+      { "text": "Home", "url": "#" },
+      { "text": "About", "url": "#" },
+      { "text": "Course", "url": "#" },
+      { "text": "Blog", "url": "#" },
+      { "text": "Contact", "url": "#" }
+      
+    ],
+    "title": "World Biggest University",
+    "description": "Making Website is Now One Of The easiest things in the world. You just need to learn HTML, Javascript, and you are good to go."
+  }
+  

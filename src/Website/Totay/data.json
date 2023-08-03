@@ -1,0 +1,41 @@
+
+{
+    "openingTiming": [
+      {
+        "day": "Monday To Saturday",
+        "timing": "7AM To 6PM"
+      },
+      {
+        "day": "Monday To Saturday",
+        "timing": "7AM To 6PM"
+      }
+    ],
+    "contact": {
+      "address": "Lahore UCP University",
+      "email": "AAMAX@website.com",
+      "phone": "+92 3194476740"
+    },
+    "socialLinks": [
+      {
+        "platform": "Facebook",
+        "link": "https://web.facebook.com/"
+      },
+      {
+        "platform": "Instagram",
+        "link": "https://www.instagram.com/bilalamanatmuhammadi/"
+      },
+      {
+        "platform": "TikTok",
+        "link": "https://www.tiktok.com/@bilalamanatmuhammadi?lang=en/"
+      },
+      {
+        "platform": "YouTube",
+        "link": "https://www.youtube.com/channel/UCedD9jYhdMOCy-n6eqfMeMQ"
+      },
+      {
+        "platform": "GitHub",
+        "link": "https://github.com/bilalamanat"
+      }
+    ]
+  }
+  
