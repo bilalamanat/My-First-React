@@ -6,7 +6,6 @@ import Facilites from './Totay/Facilites'
 import Testimonial from './Totay/Testimonial'
 import Call from './Totay/Call'
 import Footer from './Totay/Footer'
-
 function University() {
   return (
     <>
